@@ -37,7 +37,7 @@ section#login {
 
     background-color: white;
     width: 250px;
-    min-height: 500px;
+    height: 500px;
     border-radius: 20px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.450);
 
@@ -49,9 +49,7 @@ section#login > div#imagem {
     display: block;
     background: #5f2c82 url(../imagens/pexels-vinícius-estevão-2896034.jpg) no-repeat;
     background-size: cover;
-    background-position: center center;
-
-
+    background-position: left bottom;
     height: 200px;
 }
 
